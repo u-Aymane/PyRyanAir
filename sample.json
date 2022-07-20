@@ -1,0 +1,150 @@
+{
+   "termsOfUse":"https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+   "currency":"MAD",
+   "currPrecision":2,
+   "routeGroup":"ETHNIC",
+   "tripType":"OTHER",
+   "upgradeType":"PLUS",
+   "trips":[
+      {
+         "origin":"RBA",
+         "originName":"Rabat",
+         "destination":"BVA",
+         "destinationName":"Paris (Beauvais)",
+         "routeGroup":"ETHNIC",
+         "tripType":"OTHER",
+         "upgradeType":"PLUS",
+         "dates":[
+            {
+               "dateOut":"2022-07-21T00:00:00.000",
+               "flights":[
+                  {
+                     "faresLeft":1,
+                     "flightKey":"FR~8098~ ~~RBA~07/21/2022 18:15~BVA~07/21/2022 22:05~~",
+                     "infantsLeft":15,
+                     "regularFare":{
+                        "fareKey":"NVE2XJJ5MKS4TBB7RTTSKVEWBY6E73GWFPL5QNGBNGLZG4QCFGYVJPXA6MALOTDL3HHQYPMQKVHB37ZMVEWHFF5HHH7YZAVVLGH572HNHWH77CROTOQHMABHBOB7OUVWOGN7ZGTOCQVWRABHFXBU3YVQVHRBHH2B3HOSJ7XCQ452GN24HYEJEF7H22L5OZP6S66XWVOAHJOLK65VB6DLCBEHDEGGACH744DFFPYSTGSV6BEW2WO576YJKXN7ZPW7",
+                        "fareClass":"H",
+                        "fares":[
+                           {
+                              "type":"ADT",
+                              "amount":717.57,
+                              "count":1,
+                              "hasDiscount":false,
+                              "publishedFare":717.57,
+                              "discountInPercent":0,
+                              "hasPromoDiscount":false,
+                              "discountAmount":0.0,
+                              "hasBogof":false
+                           }
+                        ]
+                     },
+                     "operatedBy":"Malta Air",
+                     "segments":[
+                        {
+                           "segmentNr":0,
+                           "origin":"RBA",
+                           "destination":"BVA",
+                           "flightNumber":"FR 8098",
+                           "time":[
+                              "2022-07-21T18:15:00.000",
+                              "2022-07-21T22:05:00.000"
+                           ],
+                           "timeUTC":[
+                              "2022-07-21T17:15:00.000Z",
+                              "2022-07-21T20:05:00.000Z"
+                           ],
+                           "duration":"02:50"
+                        }
+                     ],
+                     "flightNumber":"FR 8098",
+                     "time":[
+                        "2022-07-21T18:15:00.000",
+                        "2022-07-21T22:05:00.000"
+                     ],
+                     "timeUTC":[
+                        "2022-07-21T17:15:00.000Z",
+                        "2022-07-21T20:05:00.000Z"
+                     ],
+                     "duration":"02:50"
+                  }
+               ]
+            },
+            {
+               "dateOut":"2022-07-22T00:00:00.000",
+               "flights":[
+
+               ]
+            },
+            {
+               "dateOut":"2022-07-23T00:00:00.000",
+               "flights":[
+                  {
+                     "faresLeft":1,
+                     "flightKey":"FR~8098~ ~~RBA~07/23/2022 12:55~BVA~07/23/2022 16:45~~",
+                     "infantsLeft":11,
+                     "regularFare":{
+                        "fareKey":"L777BY2V4UHX4RKHBP5ZG4Y2ZZ6FFLWYZM7KVLSJRIB44NRRFN47QWNI275CSNMLTFUL4QJXVHFHV6IACFDXZRLMHZVSHQVKDK2PJJE7CXVCD5RA33C4UIPGFCPTRK3MM3PK4BHEBRKX7DULQZZBS6ZWZEMDGWQ4HABJ6XKVYEGH4KMSYIQLAAR5PG7D3ZQAY3WHYGG6GQ7KXTOC4L6443VISXN7WRUHLAZNZO27G4MGL55O46UBZXFLAOKJ3TCP",
+                        "fareClass":"L",
+                        "fares":[
+                           {
+                              "type":"ADT",
+                              "amount":1942.92,
+                              "count":1,
+                              "hasDiscount":false,
+                              "publishedFare":1942.92,
+                              "discountInPercent":0,
+                              "hasPromoDiscount":false,
+                              "discountAmount":0.0,
+                              "hasBogof":false
+                           }
+                        ]
+                     },
+                     "operatedBy":"Malta Air",
+                     "segments":[
+                        {
+                           "segmentNr":0,
+                           "origin":"RBA",
+                           "destination":"BVA",
+                           "flightNumber":"FR 8098",
+                           "time":[
+                              "2022-07-23T12:55:00.000",
+                              "2022-07-23T16:45:00.000"
+                           ],
+                           "timeUTC":[
+                              "2022-07-23T11:55:00.000Z",
+                              "2022-07-23T14:45:00.000Z"
+                           ],
+                           "duration":"02:50"
+                        }
+                     ],
+                     "flightNumber":"FR 8098",
+                     "time":[
+                        "2022-07-23T12:55:00.000",
+                        "2022-07-23T16:45:00.000"
+                     ],
+                     "timeUTC":[
+                        "2022-07-23T11:55:00.000Z",
+                        "2022-07-23T14:45:00.000Z"
+                     ],
+                     "duration":"02:50"
+                  }
+               ]
+            },
+            {
+               "dateOut":"2022-07-24T00:00:00.000",
+               "flights":[
+
+               ]
+            },
+            {
+               "dateOut":"2022-07-25T00:00:00.000",
+               "flights":[
+
+               ]
+            }
+         ]
+      }
+   ],
+   "serverTimeUTC":"2022-07-19T21:31:09.791Z"
+}
